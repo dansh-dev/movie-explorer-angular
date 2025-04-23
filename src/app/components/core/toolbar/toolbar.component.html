@@ -1,0 +1,21 @@
+<div>
+    <div class="toolbar">
+        <div class="toolbar_logo">
+            <a href="/"> <img src="/mex.png" alt="Logo" width="50" height="auto" /></a>
+            
+        </div>
+        <div class="toolbar_search">
+            <input
+            type="text"
+            placeholder="Search..."
+            [(ngModel)]="searchTerm"
+            (keyup.enter)="onSearch()"
+            />
+        </div>
+
+        <button class="favorite-button" (click)="viewFavorite()">
+            Favorites
+        </button>
+        </div>
+
+</div>

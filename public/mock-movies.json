@@ -1,0 +1,844 @@
+[
+    {
+        "title": "The Shawshank Redemption",
+        "description": "A banker is wrongly imprisoned for the murder of his wife and forms an unlikely friendship with another inmate, ultimately discovering hope and redemption within the harsh confines of Shawshank Prison.",
+        "rank": "1",
+        "id": "tt0111161",
+        "genres": [
+            "Drama"
+        ],
+        "poster_url": "/img/shawshank.jpg",
+        "release_date": "September 22, 1994",
+        "isFavorite": false
+    },
+    {
+        "title": "The Godfather",
+        "description": "A powerful saga of a Mafia family, led by the aging Don Vito Corleone, as they navigate loyalty, power, and betrayal in a ruthless criminal underworld.",
+        "rank": "2",
+        "id": "tt0068646",
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "poster_url": "/img/thegodfather.jpg",
+        "release_date": "March 24, 1972",
+        "isFavorite": false
+    },
+    {
+        "title": "The Godfather: Part II",
+        "description": "A masterful continuation that weaves the rise of young Vito Corleone with Michael Corleone’s descent into darkness as he expands the family empire and struggles to maintain control.",
+        "rank": "3",
+        "id": "tt0071562",
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "poster_url": "/img/thegodfather2.jpg",
+        "release_date": "December 12, 1974",
+        "isFavorite": false
+    },
+    {
+        "title": "Pulp Fiction",
+        "description": "A stylish and nonlinear narrative intertwining the lives of hitmen, a boxer, and a pair of armed robbers in a series of violent and darkly comedic events set in Los Angeles.",
+        "rank": "4",
+        "id": "tt0110912",
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "poster_url": "/img/pulpfiction.jpg",
+        "release_date": "October 14, 1994",
+        "isFavorite": false
+    },
+    {
+        "title": "The Good, the Bad and the Ugly",
+        "description":"A classic Spaghetti Western where three gunslingers—Blondie, Angel Eyes, and Tuco—compete to find a hidden treasure amidst a backdrop of betrayal, greed, and conflict during the American Civil War.",
+        "rank": "5",
+        "id": "tt0060196",
+        "genres": [
+            "Western"
+        ],
+        "poster_url": "",
+        "release_date": "December 23, 1966",
+        "isFavorite": false
+    },
+    {
+        "title": "The Dark Knight",
+        "description": "Batman faces off against the Joker, a sadistic criminal mastermind who seeks to plunge Gotham City into chaos. As the Joker tests Batman's morals and limits, Gotham’s fate hangs in the balance, leading to a gripping battle between justice and anarchy.",
+        "rank": "6",
+        "id": "tt0468569",
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "poster_url": "",
+        "release_date": "July 18, 2008",
+        "isFavorite": false
+    },
+    {
+        "title": "12 Angry Men",
+        "rank": "7",
+        "id": "tt0050083",
+        "genres": [
+            "Drama"
+        ],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Schindler's List",
+        "rank": "8",
+        "id": "tt0108052",
+        "genres": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "The Lord of the Rings: The Return of the King",
+        "rank": "9",
+        "id": "tt0167260",
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Fantasy"
+        ],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Fight Club",
+        "rank": "10",
+        "id": "tt0137523",
+        "genres": [
+            "Drama"
+        ],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Star Wars: Episode V - The Empire Strikes Back",
+        "rank": "11",
+        "id": "tt0080684",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "rank": "12",
+        "id": "tt0120737",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "One Flew Over the Cuckoo's Nest",
+        "rank": "13",
+        "id": "tt0073486",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Inception",
+        "rank": "14",
+        "id": "tt1375666",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Goodfellas",
+        "rank": "15",
+        "id": "tt0099685",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Star Wars",
+        "rank": "16",
+        "id": "tt0076759",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Seven Samurai",
+        "rank": "17",
+        "id": "tt0047478",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Forrest Gump",
+        "rank": "18",
+        "id": "tt0109830",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "The Matrix",
+        "rank": "19",
+        "id": "tt0133093",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "The Lord of the Rings: The Two Towers",
+        "rank": "20",
+        "id": "tt0167261",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "City of God",
+        "rank": "21",
+        "id": "tt0317248",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Se7en",
+        "rank": "22",
+        "id": "tt0114369",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "The Silence of the Lambs",
+        "rank": "23",
+        "id": "tt0102926",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Once Upon a Time in the West",
+        "rank": "24",
+        "id": "tt0064116",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Casablanca",
+        "rank": "25",
+        "id": "tt0034583",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "The Usual Suspects",
+        "rank": "26",
+        "id": "tt0114814",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Raiders of the Lost Ark",
+        "rank": "27",
+        "id": "tt0082971",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Rear Window",
+        "rank": "28",
+        "id": "tt0047396",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "It's a Wonderful Life",
+        "rank": "29",
+        "id": "tt0038650",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Psycho",
+        "rank": "30",
+        "id": "tt0054215",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "L\u00e9on: The Professional",
+        "rank": "31",
+        "id": "tt0110413",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Sunset Blvd.",
+        "rank": "32",
+        "id": "tt0043014",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "American History X",
+        "rank": "33",
+        "id": "tt0120586",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Apocalypse Now",
+        "rank": "34",
+        "id": "tt0078788",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Terminator 2: Judgment Day",
+        "rank": "35",
+        "id": "tt0103064",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Saving Private Ryan",
+        "rank": "36",
+        "id": "tt0120815",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Memento",
+        "rank": "37",
+        "id": "tt0209144",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "City Lights",
+        "rank": "38",
+        "id": "tt0021749",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "rank": "39",
+        "id": "tt0057012",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Alien",
+        "rank": "40",
+        "id": "tt0078748",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Modern Times",
+        "rank": "41",
+        "id": "tt0027977",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Spirited Away",
+        "rank": "42",
+        "id": "tt0245429",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "North by Northwest",
+        "rank": "43",
+        "id": "tt0053125",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Back to the Future",
+        "rank": "44",
+        "id": "tt0088763",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Life Is Beautiful",
+        "rank": "45",
+        "id": "tt0118799",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "The Shining",
+        "rank": "46",
+        "id": "tt0081505",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "The Pianist",
+        "rank": "47",
+        "id": "tt0253474",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Citizen Kane",
+        "rank": "48",
+        "id": "tt0033467",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "The Departed",
+        "rank": "49",
+        "id": "tt0407887",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "M",
+        "rank": "50",
+        "id": "tt0022100",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Paths of Glory",
+        "rank": "51",
+        "id": "tt0050825",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Vertigo",
+        "rank": "52",
+        "id": "tt0052357",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Django Unchained",
+        "rank": "53",
+        "id": "tt1853728",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Double Indemnity",
+        "rank": "54",
+        "id": "tt0036775",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "The Dark Knight Rises",
+        "rank": "55",
+        "id": "tt1345836",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Aliens",
+        "rank": "56",
+        "id": "tt0090605",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Taxi Driver",
+        "rank": "57",
+        "id": "tt0075314",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "American Beauty",
+        "rank": "58",
+        "id": "tt0169547",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "The Green Mile",
+        "rank": "59",
+        "id": "tt0120689",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Gladiator",
+        "rank": "60",
+        "id": "tt0172495",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "The Intouchables",
+        "rank": "61",
+        "id": "tt1675434",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "WALL\u00b7E",
+        "rank": "62",
+        "id": "tt0910970",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "The Lives of Others",
+        "rank": "63",
+        "id": "tt0405094",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Toy Story 3",
+        "rank": "64",
+        "id": "tt0435761",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "The Great Dictator",
+        "rank": "65",
+        "id": "tt0032553",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "The Prestige",
+        "rank": "66",
+        "id": "tt0482571",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "A Clockwork Orange",
+        "rank": "67",
+        "id": "tt0066921",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Lawrence of Arabia",
+        "rank": "68",
+        "id": "tt0056172",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Am\u00e9lie",
+        "rank": "69",
+        "id": "tt0211915",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "rank": "70",
+        "id": "tt0056592",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Reservoir Dogs",
+        "rank": "71",
+        "id": "tt0105236",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Das Boot",
+        "rank": "72",
+        "id": "tt0082096",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "The Lion King",
+        "rank": "73",
+        "id": "tt0110357",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Cinema Paradiso",
+        "rank": "74",
+        "id": "tt0095765",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Star Wars: Episode VI - Return of the Jedi",
+        "rank": "75",
+        "id": "tt0086190",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "The Treasure of the Sierra Madre",
+        "rank": "76",
+        "id": "tt0040897",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "The Third Man",
+        "rank": "77",
+        "id": "tt0041959",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Once Upon a Time in America",
+        "rank": "78",
+        "id": "tt0087843",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Requiem for a Dream",
+        "rank": "79",
+        "id": "tt0180093",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "rank": "80",
+        "id": "tt0338013",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Full Metal Jacket",
+        "rank": "81",
+        "id": "tt0093058",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Oldboy",
+        "rank": "82",
+        "id": "tt0364569",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Braveheart",
+        "rank": "83",
+        "id": "tt0112573",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "L.A. Confidential",
+        "rank": "84",
+        "id": "tt0119488",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Bicycle Thieves",
+        "rank": "85",
+        "id": "tt0040522",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Chinatown",
+        "rank": "86",
+        "id": "tt0071315",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Singin' in the Rain",
+        "rank": "87",
+        "id": "tt0045152",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Princess Mononoke",
+        "rank": "88",
+        "id": "tt0119698",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Monty Python and the Holy Grail",
+        "rank": "89",
+        "id": "tt0071853",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Metropolis",
+        "rank": "90",
+        "id": "tt0017136",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Rashomon",
+        "rank": "91",
+        "id": "tt0042876",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Some Like It Hot",
+        "rank": "92",
+        "id": "tt0053291",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Amadeus",
+        "rank": "93",
+        "id": "tt0086879",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "2001: A Space Odyssey",
+        "rank": "94",
+        "id": "tt0062622",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "All About Eve",
+        "rank": "95",
+        "id": "tt0042192",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Witness for the Prosecution",
+        "rank": "96",
+        "id": "tt0051201",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "The Sting",
+        "rank": "97",
+        "id": "tt0070735",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "The Apartment",
+        "rank": "98",
+        "id": "tt0053604",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Grave of the Fireflies",
+        "rank": "99",
+        "id": "tt0095327",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    },
+    {
+        "title": "Indiana Jones and the Last Crusade",
+        "rank": "100",
+        "id": "tt0097576",
+        "genres": [],
+        "poster_url": "",
+        "isFavorite": false
+    }
+]

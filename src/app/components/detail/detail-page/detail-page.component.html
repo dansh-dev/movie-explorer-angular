@@ -1,0 +1,15 @@
+<app-toolbar></app-toolbar>
+
+<div class="movie-details-container">
+  <h1>{{ (movieDetails$ | async)?.title }}</h1>
+  <p>Rating: {{ (movieDetails$ | async)?.rank }}</p>
+  <div  class="genres-container">
+    <div *ngFor="let genre of (movieDetails$ | async)?.genres" class="genre"><p>{{ genre }}</p></div>
+  </div>
+  <h4 class="release-date">Release Date: {{ (movieDetails$ | async)?.release_date }}</h4>
+</div>
+
+<div class="movie-details-container">
+  <h3>Description </h3>
+  <p>{{ (movieDetails$ | async)?.description }}</p>
+</div>

@@ -1,0 +1,19 @@
+<div *ngFor="let section of sections$ | async; let i = index">
+<div class="movie-list">
+
+    <div *ngFor="let movie of section" class="movie-card">
+      <img (click)="viewDetails(movie)" [src]="movie.poster_url" [alt]="movie.title" class="movie-poster" />
+      <div class="movie-title">{{ movie.title }}</div>
+      <div class="movie-card-actions">
+      <p class="movie-rank">Rank: {{ movie.rank }}</p>
+      <button class="favorite-button" *ngIf="movie.isFavorite === false" (click)="favoriteToggle(movie)">
+        <img src="/img/icons/heart.png" alt="favorite" width="20" height="20" />
+      </button>
+      <button class="favorite-button" *ngIf="movie.isFavorite === true" (click)="favoriteToggle(movie)">
+        <img src="/img/icons/heart-filled.png" alt="favorite" width="20" height="20" />
+      </button>
+      </div>
+    </div>
+</div>
+  </div>
+  
