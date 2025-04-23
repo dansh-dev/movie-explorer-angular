@@ -6,9 +6,13 @@ Movie Explorer is a simple Angular application that allows users to explore and 
 
 This project showcases a basic Angular application with a focus on clean architecture and maintainability. It provides a great starting point for developers who want to build out their own movie-based apps or learn Angular fundamentals.
 
+I've implemented storing of favorites using the client's local storage. In the case of hosting, no backend would be required for this application as the movies are served and the application makes use of the local data to display favorites.
+The only downside would be that the user wouldn't have the ability to see their favorited movies on another device.
+
 ### ✨ Features
 
-- 🔍 Movie search interface  
+- 🔍 Movie search interface
+- 💖 You may favorite movies
 - ⚡ Fast and responsive UI  
 - 🧱 Modular Angular structure  
 - 🎨 Styled using SCSS with flexibility in mind  
