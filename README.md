@@ -9,6 +9,10 @@ This project showcases a basic Angular application with a focus on clean archite
 I've implemented storing of favorites using the client's local storage. In the case of hosting, no backend would be required for this application as the movies are served and the application makes use of the local data to display favorites.
 The only downside would be that the user wouldn't have the ability to see their favorited movies on another device.
 
+Apologies for the missing commits/git hygine, I had to switch devices at the start of development and I forgot to initialize the git repo on my secondary device until I completed the task.
+
+It took me about 4 hours and 47 minutes to complete this task. Any questions / suggestions are welcome. hello@dansh.dev
+
 ### ✨ Features
 
 - 🔍 Movie search interface
