@@ -51,8 +51,6 @@ To get a local copy up and running, follow these simple steps:
 movie-explorer-angular/
 ├── src/
 │   ├── app/          # Core app components and modules
-│   ├── assets/       # Static assets like images
-│   └── environments/ # Environment configs
 ├── angular.json      # Angular project configuration
 ├── package.json      # Dependencies and scripts
 └── README.md         # Project documentation
